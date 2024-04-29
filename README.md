@@ -44,6 +44,6 @@ License:
 This project is licensed under the MIT License (see the LICENSE file for details). 
 
 Click for Live Demo: https://baveshabijith07.github.io/Calci/
-Author:
 
-Your Name: BAVESHABIJITH
+
+Author: BAVESHABIJITH
